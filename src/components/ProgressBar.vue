@@ -123,7 +123,7 @@ export default {
 
   data() {
     return {
-      viewBox: "",
+      viewBox: "0 0 0 0",
       gradient: {
         x1: 0,
         x2: this.width,
